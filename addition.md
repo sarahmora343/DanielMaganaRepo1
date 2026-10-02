@@ -8,3 +8,6 @@ Another example:
 
 Additional example:
 (-20) + 30 = 10
+
+
+Examples of multiplication are: 5 x 5 = 25  &  6 x 6 = 36
